@@ -1,0 +1,2 @@
+# Thai
+AmoghThai
